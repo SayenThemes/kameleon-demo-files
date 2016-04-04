@@ -1,0 +1,11 @@
+[
+	{
+		"name" : "Construction",
+		"version" : 1,
+		"thumbnail" : "",
+		"optionsUrl" : "http://localhost/sayen-demos/construction/options.json",
+		"contentUrl" : "http://localhost/sayen-demos/construction/content.xml",
+		"previewUrl" : ""
+	},
+	
+]
