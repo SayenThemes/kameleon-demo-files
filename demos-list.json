@@ -5,7 +5,7 @@
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/thumbnail.jpg",
 		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/options.json",
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/content.xml",
-		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/widgets.json",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/widgets.wie",
 		"previewUrl" 	:	 "http://sayenthemes.com/home-version-1/"
 	},
 	{
@@ -14,7 +14,7 @@
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Construction/thumbnail.jpg",
 		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Construction/options.json",
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Construction/content.xml",
-		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Construction/widgets.json",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Construction/widgets.wie",
 		"previewUrl" 	:	 "http://sayenthemes.com/construction-demo"
 	},
 	{
@@ -23,7 +23,7 @@
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Fitness/thumbnail.jpg",
 		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Fitness/options.json",
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Fitness/content.xml",
-		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Fitness/widgets.json",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Fitness/widgets.wie",
 		"previewUrl" 	:	 "http://sayenthemes.com/fitness-demo/"
 	},
 	{
@@ -32,7 +32,7 @@
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Modern-Agency/thumbnail.jpg",
 		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/options.json",
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Modern-Agency/content.xml",
-		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/widgets.json",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/widgets.wie",
 		"previewUrl" 	:	 "http://sayenthemes.com/modern-agency-2/"
 	},
 	{
@@ -41,7 +41,7 @@
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Freelancer/thumbnail.jpg",
 		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Freelancer/options.json",
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Freelancer/content.xml",
-		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Freelancer/widgets.json",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Freelancer/widgets.wie",
 		"previewUrl" 	:	 "http://sayenthemes.com/freelancer-demo/"
 	},
 	{
@@ -50,7 +50,7 @@
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Healthcare/thumbnail.jpg",
 		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Healthcare/options.json",
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Healthcare/content.xml",
-		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Healthcare/widgets.json",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Healthcare/widgets.wie",
 		"previewUrl" 	:	 "http://sayenthemes.com/healthcare-demo/"
 	},	
 	{
@@ -59,7 +59,7 @@
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Mobile-App/thumbnail.jpg",
 		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Mobile-App/options.json",
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Mobile-App/content.xml",
-		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Mobile-App/widgets.json",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Mobile-App/widgets.wie",
 		"previewUrl" 	:	 "http://sayenthemes.com/mobileapp-demo/"
 	},	
 	{
@@ -68,7 +68,7 @@
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Restaurant/thumbnail.jpg",
 		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Restaurant/options.json",
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Restaurant/content.xml",
-		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Restaurant/widgets.json",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Restaurant/widgets.wie",
 		"previewUrl" 	:	 "http://sayenthemes.com/restaurant-demo/"
 	},
 	{
@@ -77,7 +77,7 @@
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Web-Agency/thumbnail.jpg",
 		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Web-Agency/options.json",
 		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Web-Agency/content.xml",
-		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Web-Agency/widgets.json",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Web-Agency/widgets.wie",
 		"previewUrl" 	:	 "http://sayenthemes.com/webagency-demo/"
 	}
 	
