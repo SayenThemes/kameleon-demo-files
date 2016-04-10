@@ -59,6 +59,20 @@
 		]
 	},
 	{
+		"name" 			:	 "Interior Design",
+		"version" 		:	 1,
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Interior-Design/thumbnail.jpg",
+		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Interior-Design/options.json",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Interior-Design/content.xml",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Interior-Design/widgets.wie",
+		"previewUrl" 	:	 "http://sayenthemes.com/interior-design/",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Interior-Design/slider/InterirorHomeSider.zip"
+			}
+		]
+	},
+	{
 		"name" 			:	 "Modern Blog",
 		"version" 		:	 1,
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Modern-Blog/thumbnail.jpg",
