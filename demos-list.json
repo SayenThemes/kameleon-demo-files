@@ -49,7 +49,7 @@
 		"version" 		:	 1,
 		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Modern-Agency/thumbnail.jpg",
 		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/options.json",
-		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Modern-Agency/content.xml",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/content.xml",
 		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Main/widgets.wie",
 		"previewUrl" 	:	 "http://sayenthemes.com/modern-agency-2/",
 		"revolutionSliderFiles" :[
