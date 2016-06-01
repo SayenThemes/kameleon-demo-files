@@ -157,6 +157,20 @@
 				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Web-Agency/slider/home-agency.zip"
 			}
 		]
+	},
+	{
+		"name" 			:	 "Product Showcase",
+		"version" 		:	 1,
+		"thumbnail" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Product-Showcase/thumbnail.jpg",
+		"optionsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Product-Showcase/options.json",
+		"contentUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Product-Showcase/content.xml",
+		"widgetsUrl" 	:	 "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Product-Showcase/widgets.wie",
+		"previewUrl" 	:	 "http://sayenthemes.com/sayenthemes.com/headphones-showcase//",
+		"revolutionSliderFiles" :[
+			{
+				"slider" : "https://raw.githubusercontent.com/SayenThemes/kameleon-demo-files/master/Product-Showcase/slider/showcase.zip"
+			}
+		]
 	}
 	
 ]
